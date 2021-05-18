@@ -7,13 +7,14 @@ summary: This post introduces Automated Market Makers, a key protocol powering d
 images: ['/static/img/amm/amm-banner.png']
 ---
 
+![amm-banner](/static/images/amm/amm-banner.png)
+
 ## Preface
 
 This article is a summary of what I have learnt from the decentralized finance space - written in a friendly and accessible way. I get questions on DeFi fairly often in my day to day work but a two-sentence answer often feels insufficient to explain the innovation in the space. In this post, I contextualised such protocols in the wider financial market and explore the evolution of DeFi, or more specifically automated market makers, in an incremental fashion. By peeling off the layers of complexity of the topic, I hope you gain a broader appreciation and understanding of the topic.
+The post consists of 2 parts.
 
-![amm-banner](/static/images/amm/amm-banner.png)
-
-## Table of contents
+## Table of contents (1st part)
 
 - [Background](#background)
   - [Automated market makers and Uniswap](#automated-market-makers-and-uniswap)
@@ -22,11 +23,6 @@ This article is a summary of what I have learnt from the decentralized finance s
 - [Automated pricing via algorithms](#automated-pricing-via-algorithms)
 - [Incentives for liquidity providers](#incentives-for-liquidity-providers)
 - [Incentives for users](#incentives-for-users)
-- [Popular AMM projects](#popular-amm-projects)
-  - [SushiSwap and yield farming](#sushiswap-and-yield-farming)
-  - [Balancer and ETFs](#balancer-and-etfs)
-  - [Curve, slippage and stableswap](#curve-slippage-and-stableswap)
-- [Conclusion](#conclusion)
 
 ## Background
 

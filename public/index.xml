@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Wed, 12 May 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 17 May 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/amm-2</guid>
+    <title>Automated Market Makers (AMM) Explained (2)</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/amm-2</link>
+    <description>This post introduces Automated Market Makers, a key protocol powering decentralized exchanges.</description>
+    <pubDate>Mon, 17 May 2021 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>blockchain</category><category>defi</category><category>amm</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/amm-1</guid>
     <title>Automated Market Makers (AMM) Explained (1)</title>
