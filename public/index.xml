@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Mon, 17 May 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 07 Aug 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/git-cmd-alias</guid>
+    <title>Customizing Git Commands with Alias</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/git-cmd-alias</link>
+    <description>A fun guide to customizing Git commands with aliases </description>
+    <pubDate>Sat, 07 Aug 2021 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>git</category><category>github</category><category>alias</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/amm-2</guid>
     <title>Automated Market Makers (AMM) Explained (2)</title>
