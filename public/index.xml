@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Fri, 22 Oct 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 18 Jan 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/programming-vs-software-development</guid>
+    <title>Programming vs Software Development - their difficulties</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/programming-vs-software-development</link>
+    <description>When you are a programmer, you need to be able to do what you can do, and when you are a software developer, you need to be able to do what you can't do.</description>
+    <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>Programming</category><category>software development</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/js-promises-async-await</guid>
     <title>Promise and Async/Await in Node.js</title>
@@ -17,7 +27,7 @@
     <description>A short guide on what a Promise is in Node.js, and how to avoid callback hell.</description>
     <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
     <author>proactive.d20@gmail.com (proactive-dev)</author>
-    <category>JavaScript</category><category>Node.js</category><category>Promises</category><category>Async/Await</category><category>callback hell</category>
+    <category>JavaScript</category><category>Node.js</category><category>Promise</category><category>Async/Await</category><category>callback hell</category>
   </item>
 
   <item>
