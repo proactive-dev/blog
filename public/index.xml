@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Tue, 18 Jan 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 25 Feb 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/why-code-maintenance-id-difficult</guid>
+    <title>Why code maintenance is difficult</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/why-code-maintenance-id-difficult</link>
+    <description>When you are a programmer, you need to be able to do what you can do, and when you are a software developer, you need to be able to do what you can't do.</description>
+    <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>code maintenance</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/programming-vs-software-development</guid>
     <title>Programming vs Software Development - their difficulties</title>
