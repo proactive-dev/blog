@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Fri, 08 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 19 May 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/developer-productivity</guid>
+    <title>What is developer productivity and how to measure it?</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/developer-productivity</link>
+    <description>Developer productivity, in general, refers to how productive a developer is during a specific period of time or based on any criteria. An organization would design objectives or metrics to track and set goals to attain or set a baseline of what is acceptable in order to be able to gauge developer productivity.</description>
+    <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>software development</category><category>productivity</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/srp-for-communication</guid>
     <title>Single Responsibility Principle for communication</title>
