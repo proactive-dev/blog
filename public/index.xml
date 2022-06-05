@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Thu, 19 May 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 04 Jun 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/productive-remote-teamwork</guid>
+    <title>Productive Remote Teamwork For Product Teams</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/productive-remote-teamwork</link>
+    <description>The work culture evolved like 5 years in early 2020. Now, I’ve summarised my experiences working with remote teams and clients in the last half-decade. How to maintain human contacts, how to be productive, and what tools & apps I recommend for your team to maximize efficiency.</description>
+    <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>productivity</category><category>teamwork</category><category>remote work</category><category>async communication</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/developer-productivity</guid>
     <title>What is developer productivity and how to measure it?</title>
