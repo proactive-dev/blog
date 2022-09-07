@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Sat, 04 Jun 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 06 Sep 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/microservices-with-nodejs-and-rabbitmq</guid>
+    <title>Microservices with Node.js and RabbitMQ</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/microservices-with-nodejs-and-rabbitmq</link>
+    <description>Implementation of a microservice architecture using Node.js and RabbitMQ to create an eCommerce platform.</description>
+    <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>JavaScript</category><category>Node.js</category><category>Express.js</category><category>RabbitMQ</category><category>Microservices</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/productive-remote-teamwork</guid>
     <title>Productive Remote Teamwork For Product Teams</title>
