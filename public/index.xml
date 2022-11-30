@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Tue, 06 Sep 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 28 Nov 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/react-need-keys</guid>
+    <title>Why does React need keys?</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/react-need-keys</link>
+    <description>This post will show you what is the purpose if the “key” prop in React and some best practices around it.</description>
+    <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>React</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/microservices-with-nodejs-and-rabbitmq</guid>
     <title>Microservices with Node.js and RabbitMQ</title>
