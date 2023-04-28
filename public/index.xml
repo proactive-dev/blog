@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>proactive.d20@gmail.com (proactive-dev)</managingEditor>
       <webMaster>proactive.d20@gmail.com (proactive-dev)</webMaster>
-      <lastBuildDate>Sun, 22 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 27 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://proactive-dev-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://proactive-dev-blog.vercel.app/blog/ai-era</guid>
+    <title>The AI Era: Google Bard, ChatGPT, and the Future of Language Models</title>
+    <link>https://proactive-dev-blog.vercel.app/blog/ai-era</link>
+    <description>The AI era is upon us, and large language models (LLMs) are one of the most powerful tools that we have at our disposal. LLMs have the potential to revolutionize the way we interact with computers, and they could also change the way we live our lives. However, it is important to be aware of the potential risks of LLMs, and to work together to ensure that they are used for good.</description>
+    <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
+    <author>proactive.d20@gmail.com (proactive-dev)</author>
+    <category>thought</category><category>AI</category><category>LLM</category><category>Google Bard</category><category>ChatGPT</category>
+  </item>
+
   <item>
     <guid>https://proactive-dev-blog.vercel.app/blog/react-component-lib-with-ts-storybook-and-tailwind</guid>
     <title>Create and publish your own React component library with Storybook, TypeScript, and Tailwind</title>
